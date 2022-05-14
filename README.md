@@ -6,13 +6,13 @@
 </br>
 <div id="header" align="center">
     <a href="https://t.me/antonadministrator">
-        <img alt="Anton Pomazkov | Telegram" width="44px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1652512496~hmac=6b345100dcdc68453ebfba3f8134eff3" />
+        <img alt="Anton Pomazkov | Telegram" width="44px" src="./images/telegram.png" />
     </a>&nbsp;
     <a href="https://vk.com/cred_streetbeat">
-        <img alt="Anton Pomazkov | VK" width="44px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1652512499~hmac=fa5f89a7d2c804901d58602dce323257" />
+        <img alt="Anton Pomazkov | VK" width="44px" src="./images/vk.png"" />
     </a>&nbsp;
     <a href="https://discordapp.com/users/351333299928694785/">
-       <img alt="Anton Pomazkov | Discord" width="44px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504896.png?token=exp=1652512494~hmac=03bc8cb42e6680bdfadd09bd95aa08ae" />
+       <img alt="Anton Pomazkov | Discord" width="44px" src="./images/discord.png"" />
     </a>
 </div>
 
