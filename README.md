@@ -1,10 +1,9 @@
-### Hi there 👋, I'm Anton
-
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="300"/>
 </div>
 </br>
 <div id="header" align="center">
+    <h2>Hi there 👋, I'm Anton</h2>
     <a href="https://t.me/antonadministrator">
         <img alt="Anton Pomazkov | Telegram" width="44px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1652512496~hmac=6b345100dcdc68453ebfba3f8134eff3" />
     </a>&nbsp;
