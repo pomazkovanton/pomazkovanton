@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Anton Pomazkov | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />](https://t.me/antonadministrator)
-[<img align="left" alt="Anton Pomazkov | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670055.png?token=exp=1652508344~hmac=423c8b5866d6243928d91b7a52001495" />](https://vk.com/cred_streetbeat)
+[<img align="left" alt="Anton Pomazkov | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670055.png?token=exp=1652509900~hmac=e9ca6fe6641a6422bc3ab3967be1b6c9" />](https://vk.com/cred_streetbeat)
 [<img align="left" alt="Anton Pomazkov | Diskord" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1652509271~hmac=b561eb19de3462a241e34e50cf9313c9" />](https://discordapp.com/users/351333299928694785/)
 
 <br />
