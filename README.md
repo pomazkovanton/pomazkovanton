@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Anton
 
 <div id="header" align="center">
-  <img src="https://i.gifer.com/XcfJ.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif?cid=790b761147bc097d9afff9fda7314fdf6041169a9a6eef19&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
 ## I am a novice frontend developer
