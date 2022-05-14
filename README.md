@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Anton</h2>
+<h2>Hi there 👋, I'm Anton</h2>
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="300"/>
