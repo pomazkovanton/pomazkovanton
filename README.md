@@ -16,7 +16,7 @@
     </a>
 </div>
 
-### :man_technologist: About Me
+### :fire: About Me
 
 - 🐧 I am a novice frontend developer
 - 💻 I like to write code
@@ -36,8 +36,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="SASS"**alt="SASS" width="40" height="40"/>&nbsp;
 </div>
-</br>
-
-### :fire: My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomazkovanton&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
