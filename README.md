@@ -41,10 +41,3 @@ Hi there 👋, I'm Anton
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Vite-Dark.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp;
 </div>
 </br>
-
-### :fire: My Stats :
-
-<div align="center">
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=pomazkovanton&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pomazkovanton&&hide_border=trueshow_icons=true&theme=react"/>
-</div>
