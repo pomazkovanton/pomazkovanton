@@ -2,31 +2,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="300"/>
 </div>
-Hi there 👋, I'm Anton
+Приветствую всех на моём GitHub профиле! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> Меня зовут Антон, и я начинающий фронтенд-разработчик. 👨‍💻 Я увлечён изучением новых инструментов и подходов в веб-разработке, и всегда готов к новым вызовам. 💪 Буду рад общению с единомышленниками и возможности поделиться своим опытом! 🙌 Вот языки и инструменты с которыми я работаю на данный момент ⬇️
 </br>
-</br>
-<div id="header" align="center">
-    <a href="https://t.me/antonadministrator">
-        <img alt="Anton Pomazkov | Telegram" width="44px" src="./images/telegram.png" />
-    </a>&nbsp;
-    <a href="https://vk.com/cred_streetbeat">
-        <img alt="Anton Pomazkov | VK" width="44px" src="./images/vk.png"" />
-    </a>&nbsp;
-    <a href="https://discordapp.com/users/351333299928694785/">
-       <img alt="Anton Pomazkov | Discord" width="44px" src="./images/discord.png"" />
-    </a>
-</div>
-</h2>
-
-### :man_technologist: About Me :
-
-- 🐧 I am a novice frontend developer
-- 💻 I like to write code
-- 👨‍🎓 I am a student of Yandex.Practicum
-- 📽 I like to watch movies
-
-### :hammer_and_wrench: Languages and Tools
-
 </br>
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TypeScript.svg" title="ts" alt="ts" width="40" height="40"/>&nbsp;
